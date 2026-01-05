@@ -11,7 +11,11 @@ This is an example repository to show the following:
 4) Add and commit changes 
 `git add README.md` 
 `git commit -m “Updated README to …”`
-5) Push changes to remote 
+5) Check out differences 
+`git diff README.md`
+6) Push changes to remote 
 `git push origin`
-6) Create pull request
-7) Merge pull request
+7) Create pull request
+8) Merge pull request
+
+Making a change!
