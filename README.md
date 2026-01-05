@@ -7,7 +7,7 @@ This is an example repository to show the following:
 2) Checkout main branch 
 `git switch main`
 3) Create and switch new branch 
-`git branch –c update_readme` 
+`git switch –c update_readme` 
 4) Add and commit changes 
 `git add README.md` 
 `git commit -m “Updated README to …”`
