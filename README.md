@@ -12,4 +12,6 @@ This is an example repository to show the following:
 `git add README.md` 
 `git commit -m “Updated README to …”`
 5) Push changes to remote 
-`git push origin` 
+`git push origin`
+6) Create pull request
+7) Merge pull request
